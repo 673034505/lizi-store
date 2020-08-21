@@ -1,7 +1,7 @@
 
 <template>
          <view class="container">
-		
+             栗姿时尚购物<applet></applet>
           </view>
 </template>
 <script>
