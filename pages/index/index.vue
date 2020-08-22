@@ -1,11 +1,12 @@
 
 <template>
          <view class="container">
-             栗姿时尚购物<applet></applet>
+             栗姿时尚购物
           </view>
 </template>
 <script>
     export default {
+        name:'index',
         data() {
             return {
 				
@@ -25,5 +26,10 @@
     }
 </script>
 <style>
-    
+    .container{
+        padding-top: 2rem;
+        background: #333;
+        color: #fff;
+        min-height: 98vh;
+    }
 </style>
